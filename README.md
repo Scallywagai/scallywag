@@ -49,4 +49,4 @@ Open an [issue](https://github.com/Scallywagai/scallywag/issues).
 
 ## License
 
-MIT. The plugins and setup here are MIT; the characters they fetch belong to Scallywag and are covered by the site's terms.
+The plugins and setup in this repo are [MIT](LICENSE). The characters they fetch from scallywagai.com aren't part of this repo and aren't covered by that license.
