@@ -46,3 +46,7 @@ Tools that can't sign in can use an API key instead; see [the developer docs](ht
 ## Problems
 
 Open an [issue](https://github.com/Scallywagai/scallywag/issues).
+
+## License
+
+MIT. The plugins and setup here are MIT; the characters they fetch belong to Scallywag and are covered by the site's terms.

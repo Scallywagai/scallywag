@@ -13,5 +13,6 @@
     "personality",
     "character",
     "session-start"
-  ]
+  ],
+  "license": "MIT"
 }
