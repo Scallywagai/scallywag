@@ -1,0 +1,16 @@
+{
+  "name": "scallywag",
+  "version": "0.2.0",
+  "description": "Ask for a personality and your agent puts on a Scallywag character: \"grab a stern personality from Scallywag\". Adds the Scallywag MCP server; the first use opens a browser to sign in (accounts are free).",
+  "author": {
+    "name": "Scallywag",
+    "url": "https://scallywagai.com"
+  },
+  "homepage": "https://scallywagai.com/developers",
+  "repository": "https://github.com/Scallywagai/scallywag",
+  "keywords": [
+    "persona",
+    "personality",
+    "character"
+  ]
+}

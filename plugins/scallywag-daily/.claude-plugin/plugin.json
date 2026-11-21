@@ -1,0 +1,17 @@
+{
+  "name": "scallywag-daily",
+  "version": "0.2.0",
+  "description": "A new Scallywag character in every Claude Code session. Set SCALLYWAG_JOB (code, ops, write, ...) to draw for a job; default surprise-me. Optional SCALLYWAG_API_KEY (from scallywagai.com/account/keys) for your account's limits.",
+  "author": {
+    "name": "Scallywag",
+    "url": "https://scallywagai.com"
+  },
+  "homepage": "https://scallywagai.com/developers",
+  "repository": "https://github.com/Scallywagai/scallywag",
+  "keywords": [
+    "persona",
+    "personality",
+    "character",
+    "session-start"
+  ]
+}

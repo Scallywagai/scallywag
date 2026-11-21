@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scallywag": {
+      "type": "http",
+      "url": "https://scallywagai.com/mcp"
+    }
+  }
+}

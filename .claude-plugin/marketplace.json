@@ -1,0 +1,22 @@
+{
+  "name": "scallywag",
+  "owner": {
+    "name": "Scallywag",
+    "url": "https://scallywagai.com"
+  },
+  "metadata": {
+    "description": "Personalities for your coding agent, from https://scallywagai.com."
+  },
+  "plugins": [
+    {
+      "name": "scallywag",
+      "source": "./plugins/scallywag",
+      "description": "Ask for a personality and your agent puts on a Scallywag character."
+    },
+    {
+      "name": "scallywag-daily",
+      "source": "./plugins/scallywag-daily",
+      "description": "A new Scallywag character in every session (set SCALLYWAG_JOB to pick a job)."
+    }
+  ]
+}
